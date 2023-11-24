@@ -226,3 +226,28 @@ section {
     background-image: url('../img/galeria8.jpg');
     margin-right: 0;
 }
+
+.doces3-imgs {
+    width: 23.9%;
+    margin-left: .5%;
+    margin-right: .5%;
+}
+
+#img9 {
+    background-image: url('../img/galeria9.jpg');
+    margin-left: 0;
+}
+
+#img10 {
+    background-image: url('../img/galeria10.jpg');
+}
+
+#img11 {
+    background-image: url('../img/galeria11.jpg');
+    margin-right: 0;
+}
+
+#img12 {
+    background-image: url('../img/galeria12.jpg');
+    margin-right: 0;
+}
